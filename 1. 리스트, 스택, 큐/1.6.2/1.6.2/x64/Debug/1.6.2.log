@@ -1,0 +1,10 @@
+﻿  1.6.2.cpp
+C:\Users\USER\Desktop\자료구조 및 알고리즘\1.6.2\1.6.2.cpp(69,15): error C2084: 'bool singly_ll::singly_ll_iterator::operator ==(const singly_ll::singly_ll_iterator &,const singly_ll::singly_ll_iterator &)' 함수에 이미 본문이 있습니다.
+      C:\Users\USER\Desktop\자료구조 및 알고리즘\1.6.2\1.6.2.cpp(63,15):
+      'singly_ll::singly_ll_iterator::operator =='의 이전 정의를 참조하십시오.
+  
+C:\Users\USER\Desktop\자료구조 및 알고리즘\1.6.2\1.6.2.cpp(96,13): error C2264: 'operator ==': 함수 정의 또는 선언에 오류가 있습니다. 함수가 호출되지 않습니다.
+C:\Users\USER\Desktop\자료구조 및 알고리즘\1.6.2\1.6.2.cpp(96,13): error C2088: 기본 제공 연산자 '=='은(는) 'singly_ll::singly_ll_iterator' 형식의 피연산자에 적용될 수 없습니다.
+C:\Users\USER\Desktop\자료구조 및 알고리즘\1.6.2\1.6.2.cpp(119,16): error C2676: 이항 '!=': 'singly_ll::singly_ll_iterator'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+C:\Users\USER\Desktop\자료구조 및 알고리즘\1.6.2\1.6.2.cpp(127,16): error C2676: 이항 '!=': 'singly_ll::singly_ll_iterator'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+C:\Users\USER\Desktop\자료구조 및 알고리즘\1.6.2\1.6.2.cpp(133,16): error C2676: 이항 '!=': 'singly_ll::singly_ll_iterator'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.

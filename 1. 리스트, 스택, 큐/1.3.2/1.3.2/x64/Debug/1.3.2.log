@@ -1,0 +1,7 @@
+﻿  1.3.2.cpp
+C:\Users\USER\Desktop\자료구조\1.3.2\1.3.2.cpp(6,12): error C2059: 구문 오류: '?'
+C:\Users\USER\Desktop\자료구조\1.3.2\1.3.2.cpp(8,9): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+C:\Users\USER\Desktop\자료구조\1.3.2\1.3.2.cpp(8,9): error C2143: 구문 오류: ';'이(가) ''template<'' 앞에 없습니다.
+C:\Users\USER\Desktop\자료구조\1.3.2\1.3.2.cpp(9,91): error C2059: 구문 오류: '?'
+C:\Users\USER\Desktop\자료구조\1.3.2\1.3.2.cpp(10,1): error C2760: 구문 오류: 여기서 'pop pragma state'은(는) 예상치 못한 오류였습니다. 예상된 오류는 ';'였습니다
+C:\Users\USER\Desktop\자료구조\1.3.2\1.3.2.cpp(10,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
